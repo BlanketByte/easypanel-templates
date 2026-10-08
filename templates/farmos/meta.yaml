@@ -10,7 +10,7 @@ instructions:
   farmOS `sites` and `keys` directories for settings, uploaded files, SQLite
   database storage, and key material across upgrades.
 
-  farmOS is a registered trademark of Michel Stenta.
+  farmOS is a registered trademark of Michael Stenta.
 changeLog:
   - date: 2026-04-13
     description: Initial template release
